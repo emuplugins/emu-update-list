@@ -1,0 +1,11 @@
+{
+    "name": "JetTabs",
+    "slug": "jet-tabs",
+    "version": "100",
+    "author": "Crocoblock",
+    "author_homepage": "https://crocoblock.com/",
+    "download_url": "https://github.com/emuplugins/emu-update-core/raw/refs/heads/main/jet-tabs/jet-tabs.zip",
+    "requires": "5.8",
+    "tested": "6.4",
+    }
+
