@@ -1,10 +1,10 @@
 {
-    "name": "JetEngine",
-    "slug": "jet-engine",
-    "version": "77.0",
+    "name": "JetSmartFilters",
+    "slug": "jet-smart-filters",
+    "version": "77.00",
     "author": "Crocoblock",
     "author_homepage": "https://crocoblock.com/",
-    "download_url": "https://github.com/emuplugins/emu-update-core/raw/refs/heads/main/jet-engine/jet-engine.zip",
+    "download_url": "https://github.com/emuplugins/emu-update-core/raw/refs/heads/main/jet-smart-filters/jet-smart-filters.zip",
     "requires": "5.8",
     "tested": "6.4",
     "sections": {
