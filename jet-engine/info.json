@@ -1,1 +1,16 @@
+{
+    "name": "JetEngine",
+    "slug": "jet-engine",
+    "version": "3.2.2",
+    "author": "Crocoblock",
+    "author_homepage": "https://crocoblock.com/",
+    "download_url": "https://seu-servidor.com/downloads/jet-engine.zip",
+    "requires": "5.8",
+    "tested": "6.4",
+    "sections": {
+        "description": "JetEngine é um plugin avançado para criação de conteúdos dinâmicos no WordPress.",
+        "changelog": "Correções de bugs e melhorias na performance.",
+        "installation": "Envie o arquivo para o diretório wp-content/plugins e ative no painel do WordPress."
+    }
+}
 
