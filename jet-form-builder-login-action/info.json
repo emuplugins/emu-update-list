@@ -1,0 +1,11 @@
+{
+    "name": "JetFormBuilder - User Login Action",
+    "slug": "jet-form-builder-login-action",
+    "version": "77.00",
+    "author": "Crocoblock",
+    "author_homepage": "https://crocoblock.com/",
+    "download_url": "https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-form-builder-login-action/jet-form-builder-login-action.zip",
+    "requires": "5.8",
+    "tested": "6.4"
+    }
+
