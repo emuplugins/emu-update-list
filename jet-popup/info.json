@@ -1,11 +1,10 @@
 {
-    "name": "JetPopup",
-    "slug": "jet-popup",
-    "version": "2.0.12",
-    "author": "Crocoblock",
-    "author_homepage": "https://crocoblock.com/",
-    "download_url": "https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-popup/jet-popup.zip",
-    "requires": "5.8",
-    "tested": "6.4"
-    }
-
+    "name":"JetPopup",
+    "slug":"jet-popup",
+    "version":"2.0.13",
+    "author":"Crocoblock",
+    "author_homepage":"https://crocoblock.com/",
+    "download_url":"https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-popup/jet-popup.zip",
+    "requires":"5.8",
+    "tested":"6.4"
+ }

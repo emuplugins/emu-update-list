@@ -1,16 +1,15 @@
 {
-    "name": "JetSmartFilters",
-    "slug": "jet-smart-filters",
-    "version": "3.6.4",
-    "author": "Crocoblock",
-    "author_homepage": "https://crocoblock.com/",
-    "download_url": "https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-smart-filters/jet-smart-filters.zip",
-    "requires": "5.8",
-    "tested": "6.4",
-    "sections": {
-        "description": "JetEngine é um plugin avançado para criação de conteúdos dinâmicos no WordPress.",
-        "changelog": "Correções de bugs e melhorias na performance.",
-        "installation": "Envie o arquivo para o diretório wp-content/plugins e ative no painel do WordPress."
+    "name":"JetSmartFilters",
+    "slug":"jet-smart-filters",
+    "version":"3.6.5",
+    "author":"Crocoblock",
+    "author_homepage":"https://crocoblock.com/",
+    "download_url":"https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-smart-filters/jet-smart-filters.zip",
+    "requires":"5.8",
+    "tested":"6.4",
+    "sections":{
+       "description":"JetEngine é um plugin avançado para criação de conteúdos dinâmicos no WordPress.",
+       "changelog":"Correções de bugs e melhorias na performance.",
+       "installation":"Envie o arquivo para o diretório wp-content/plugins e ative no painel do WordPress."
     }
-}
-
+ }
