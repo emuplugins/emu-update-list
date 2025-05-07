@@ -1,11 +1,10 @@
 {
-    "name": "JetWooProductGallery",
-    "slug": "jet-woo-product-gallery",
-    "version": "77.0",
-    "author": "Crocoblock",
-    "author_homepage": "https://crocoblock.com/",
-    "download_url": "https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-woo-product-gallery/jet-woo-product-gallery.zip",
-    "requires": "5.8",
-    "tested": "6.4",
-    }
-
+    "name":"JetWooProductGallery",
+    "slug":"jet-woo-product-gallery",
+    "version":"2.1.22.1",
+    "author":"Crocoblock",
+    "author_homepage":"https://crocoblock.com/",
+    "download_url":"https://github.com/emuplugins/emu-update-list/raw/refs/heads/main/jet-woo-product-gallery/jet-woo-product-gallery.zip",
+    "requires":"5.8",
+    "tested":"6.4"
+ }
